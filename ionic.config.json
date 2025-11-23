@@ -1,0 +1,7 @@
+{
+  "name": "Medicare_v3",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
